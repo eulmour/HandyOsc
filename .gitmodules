@@ -1,0 +1,8 @@
+[submodule "modules/JUCE"]
+	path = modules/JUCE
+	url = git@github.com:juce-framework/JUCE.git
+	ignore = dirty
+[submodule "modules/foleys_gui_magic"]
+	path = modules/foleys_gui_magic
+	url = git@github.com:ffAudio/foleys_gui_magic.git
+	ignore = dirty

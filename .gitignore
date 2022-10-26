@@ -1,0 +1,16 @@
+# build artifacts
+[Cc]make*
+build*/
+bin/
+*_Packaged
+*.exe
+*.dmg
+
+# IDE settings
+.vscode/
+.idea/
+
+# Mac extras
+.DS_Store
+modules/foleys_gui_magic
+modules/JUCE
