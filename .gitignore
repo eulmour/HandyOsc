@@ -11,5 +11,3 @@ bin/
 
 # Mac extras
 .DS_Store
-modules/foleys_gui_magic
-modules/JUCE
