@@ -1,5 +1,5 @@
 file (GLOB FILES_DSP CONFIGURE_DEPENDS
-    "*.hpp" "*.cpp"
+    "*.h" "*.cpp"
 )
 
 target_sources(${CMAKE_PROJECT_NAME}

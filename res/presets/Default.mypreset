@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Preset name="Default" plugin="HandyOsc" vendor="Pachuch" category="" version="1.0.0">
+<Preset name="Default" plugin="WarpRoom" vendor="eulmour" category="" version="1.0.0">
   <state>
     <Parameters>
       <PARAM id="ioGain" value="1.0"/>
-      <PARAM id="controlReduction" value="16.0"/>
-      <PARAM id="controlWarp" value="0.0"/>
     </Parameters>
   </state>
 </Preset>

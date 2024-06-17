@@ -1,11 +1,4 @@
 juce_add_binary_data(BinaryData SOURCES
-    gui.xml
-
-    knob.svg
-    pointer.svg
-    RobotoCondensed-Bold.ttf   
-    RobotoCondensed-Regular.ttf   
-
     presets/Default.mypreset
 )
 

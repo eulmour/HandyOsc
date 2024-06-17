@@ -1,7 +1,5 @@
 file (GLOB FILES_GUI CONFIGURE_DEPENDS
-    "*.hpp" "*.cpp"
-    "item/*.hpp" "item/*.cpp"
-    "lnf/*.hpp" "lnf/*.cpp"
+    "*.h" "*.cpp"
 )
 
 target_sources(${CMAKE_PROJECT_NAME}
